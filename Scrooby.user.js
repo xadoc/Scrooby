@@ -1,9 +1,10 @@
 // ==UserScript==
 // @include http://listen.grooveshark.com/#/*
+// @include http://grooveshark.com/#/*
 // @name Scrooby
 // @namespace scrooby
 // @author xadoc
-// @version 0.31
+// @version 0.32
 // @description  Scrooby Scrobbles Grooveshark tracks to Last.fm
 // ==/UserScript==
 
